@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+    color: bisque;
+    position: sticky;
+}
+
+p{
+    background-color: bisque;
+    color: black;
+    padding: 20px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#item{
+    font-size: larger;
+    color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+    font-weight: bolder;
+}
+
+
+a{
+
+    text-decoration: none;
+    color: aqua;
+}
+
+ul{
+    list-style: none;
+}
